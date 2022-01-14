@@ -1,0 +1,40 @@
+.aboutUs{
+	width: 1200px;
+	height: 600px;
+	background: url(../img/aboutusImg.jpg) no-repeat;
+	background-size: 100% 100%;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.team{
+	width: 1200px;
+	height: 180px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.aboutUsBox{
+	width:400px;
+	height: 200px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.uswhiteBox{
+	width: 100%;
+	height: 50px;
+	background-color: white;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-around;
+	border-radius: 10px;
+}

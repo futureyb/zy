@@ -1,0 +1,171 @@
+.Econbox{
+	width: 1100px;
+	height: 800px;
+	margin: 0 auto;
+	background-color:rgba(255,255,255,0.5);
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+body {
+	width: 100%;
+	background: url(../img/banner4.jpg) no-repeat;
+	background-size: 100% auto;
+}
+
+.wordBox{
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.wordBoxs{
+	width: 90%;
+	height: 120px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+.s{
+	width: 30%;
+	background-color:rgba(0,0,0,0.5);
+	color: white;
+	text-align: center;
+	height: 25px;
+	line-height: 25px;
+	margin: 10px 10px;
+	font-size: 12px;
+}
+
+.kq{
+	width: 100%;
+	height: 120px;
+}
+
+.otherBoxs{
+	width: 90%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: solid 1px gray;
+	background-color: white;
+}
+
+.seachBox{
+	width: 90%;
+	height: 50px;
+	background-color: white;
+	border-radius: 10px;
+	margin: 20px auto;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	
+}
+
+.wordR{
+	width: 40%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.eatwayBox{
+	width: 30%;
+	display: flex;
+	flex-direction: column;
+	height: 230px;
+	background-color: white;
+	justify-content: space-between;
+	border-radius: 2px;
+	overflow: hidden;
+	
+}
+
+
+.eatwayBox:hover{
+	box-shadow: 2px 2px 5px 3px gray;
+	cursor: pointer;
+	color: orange;
+}
+
+.eatFruitImg1{
+	width: 100%;
+	height: 150px;
+	background: url(../img/shiliu.jpg);
+	background-size: 100% 100%;
+}
+.eatFruitImg2{
+	width: 100%;
+	height: 150px;
+	background: url(../img/fruits.jpg);
+	background-size: 100% 100%;
+}
+.eatFruitImg3{
+	width: 100%;
+	height: 150px;
+	background: url(../img/shizi.jpg);
+	background-size: 100% 100%;
+}
+.eatFruitImg4{
+	width: 100%;
+	height: 150px;
+	background: url(../img/boluo.jpg);
+	background-size: 100% 100%;
+}
+.eatFruitImg5{
+	width: 100%;
+	height: 150px;
+	background: url(../img/gua.jpg);
+	background-size: 100% 100%;
+}
+.eatFruitImg6{
+	width: 100%;
+	height: 150px;
+	background: url(../img/yangtao.jpg);
+	background-size: 100% 100%;
+}
+.eatFruitImg7{
+	width: 100%;
+	height: 150px;
+	background: url(../img/mangguo.jpg);
+	background-size: 100% 100%;
+}
+.eatFruitImg8{
+	width: 100%;
+	height: 150px;
+	background: url(../img/mangguo2.jpg);
+	background-size: 100% 100%;
+}
+.eatFruitImg9{
+	width: 100%;
+	height: 150px;
+	background: url(../img/gua2.jpg);
+	background-size: 100% 100%;
+}
+.EconboxL{
+	width: 68%;
+	height: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+.EconboxR{
+	width: 30%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+}

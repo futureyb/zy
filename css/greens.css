@@ -1,0 +1,243 @@
+.topBox{
+	width: 100%;
+	height: 500px;
+	background: url(../img/banner2.jpg) no-repeat;
+	background-size: 100% auto;
+	background-position: center;
+}
+
+.GNews{
+	width: 100%;
+	height: 500px;
+	background-color: #29333f;
+}
+
+.Gcontent{
+	width: 1200px;
+	height: 1400px;
+	margin: 50px auto;
+	background-color: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	margin-top:170px;
+}
+
+.Ningword{
+	width: 100%;
+	height: 160px;
+	background-color: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.dayBox2{
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+	width: 30%;
+}
+
+.dayBox{
+	width: 90%;
+	height: 60px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.blueLine{
+	width: 8%;
+	border-bottom: solid 4px #00343f;
+}
+
+.jiantou{
+	width: 30px;
+	height: 30px;
+	border-radius:50%;
+	border: solid 3px gainsboro;
+	box-sizing: border-box;
+	background: url(../img/wenzi3.png);
+	background-position: center;
+	background-size:40px 40px;
+	
+}
+
+.MoreBox{
+	display: flex;
+	flex-direction: row;
+	justify-content:space-around;
+	align-items: center;
+	width: 100px;
+	
+}
+
+.Gmore{
+	width: 85%;
+	height: 50px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.newBoxs{
+	width:85%;
+	height: 500px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.greensImg1 {
+	width: 80%;
+	height: 300px;
+	background: url(../img/4.jpg) no-repeat;
+	background-size: 650px 550px;
+	background-position: center;
+	margin: 30px auto;
+}
+.greensImg2 {
+	width: 80%;
+	height: 300px;
+	background: url(../img/5.jpg) no-repeat;
+	background-size: 450px 550px;
+	background-position: center;
+	margin: 30px auto;
+}
+.greensImg3 {
+	width: 80%;
+	height: 300px;
+	background: url(../img/6.jpg) no-repeat;
+	background-size: 550px 550px;
+	background-position: center;
+	margin: 30px auto;
+}
+.greensImg4 {
+	width: 80%;
+	height: 300px;
+	background: url(../img/7.jpg) no-repeat;
+	background-size: 800px 550px;
+	background-position: center;
+	margin: 30px auto;
+}
+.greensImg5 {
+	width: 80%;
+	height: 300px;
+	background: url(../img/8.jpg) no-repeat;
+	background-size: 550px 550px;
+	background-position: center;
+	margin: 30px auto;
+}
+
+.greensImg6 {
+	width: 80%;
+	height: 300px;
+	background: url(../img/9.jpg) no-repeat;
+	background-size: 650px 550px;
+	background-position: center;
+	margin: 30px auto;
+}
+
+.fruitsImg1 {
+	width: 80%;
+	height: 300px;
+	background: url(../img/21212.jpg) no-repeat;
+	background-size: 400px 500px;
+	background-position: center;
+	margin: 30px auto;
+}
+.fruitsImg2 {
+	width: 80%;
+	height: 300px;
+	background: url(../img/342342.jpg) no-repeat;
+	background-size: 500px 550px;
+	background-position: center;
+	margin: 30px auto;
+}
+.fruitsImg3 {
+	width: 80%;
+	height: 300px;
+	background: url(../img/apple.jpg) no-repeat;
+	background-size: 750px 550px;
+	background-position: center;
+	margin: 30px auto;
+}
+.fruitsImg4 {
+	width: 80%;
+	height: 300px;
+	background: url(../img/43434322.jpg) no-repeat;
+	background-size: 500px 650px;
+	background-position: center;
+	margin: 30px auto;
+}
+.fruitsImg5 {
+	width: 80%;
+	height: 300px;
+	background: url(../img/lizhi.jpg) no-repeat;
+	background-size: 650px 550px;
+	background-position: center;
+	margin: 30px auto;
+}
+.fruitsImg6 {
+	width: 80%;
+	height: 300px;
+	background: url(../img/lanmei.jpg) no-repeat;
+	background-size: 700px 550px;
+	background-position: center;
+	margin: 30px auto;
+}
+
+
+
+.conGreen{
+	width: 100%;
+	height: 1000px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.whiteBox{
+	width: 100%;
+	height: 2200px;
+	background-color: rgba(255,255,255,0.6);
+}
+
+.vagerImgbox{
+	width: 100%;
+	height: 500px;
+}
+
+.shopBoxs{
+	width: 1200px;
+	height: 1500px;
+	margin: 0 auto;
+	
+}
+
+.vagerBox{
+	width: 100%;
+	height: auto;
+	background: url(../img/greenbanner.jpg) no-repeat;
+	background-size: 100%;
+	background-position: bottom;
+}
+
+.Nbox{
+	width: 22%;
+	height:400px;
+	background-color: green;
+}
+
+.NimgBox{
+	width: 100%;
+	height: 237px;
+}
